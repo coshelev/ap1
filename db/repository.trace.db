@@ -1,0 +1,4 @@
+2021-02-28 18:10:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Синтаксическая ошибка в выражении SQL "SELECT * FROM EVENTS ID EVENT_DATE[*]"
+Syntax error in SQL statement "SELECT * FROM EVENTS ID EVENT_DATE[*]"; SQL statement:
+SELECT * FROM EVENTS ID EVENT_DATE [42000-196]
